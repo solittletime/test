@@ -1,0 +1,64 @@
+Here are the links for the React version of “Tour of Heroes”:
+
+https://medium.com/dailyjs/react-and-angular-a-contrast-b19210c3fe89
+https://github.com/halversondm/react-tour-of-heroes
+
+
+he author of that article used React with Redux as the state container.
+
+The tutorials are here:
+https://angular.io/guide/quickstart
+https://reactjs.org/tutorial/tutorial.html
+
+Let’s get started!
+
+Official websites:
+https://angular.io
+https://reactjs.org/
+
+Style guide:
+https://angular.io/guide/styleguide
+https://github.com/airbnb/javascript
+
+https://redux.js.org/introduction/examples
+
+https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1
+
+
+git clone https://github.com/halversondm/react-tour-of-heroes.git
+git reset --hard
+git checkout remotes/origin/feature/part3
+npm install
+npm run clean
+npm run webpack
+npm run lite
+localhost:3000
+
+
+=================
+
+git config --global user.name “solittletime”
+git config --global user.email "solittletime@users.noreply.github.com"
+git branch feature/part5
+git checkout feature/part5
+git push -u origin feature/part5
+
+
+
+https://gist.github.com/CristinaSolana/1885435
+
+https://tylergaw.com/articles/building-my-first-pwa/
+https://github.com/bbhlondon/cra-append-sw
+
+
+    "lite-server": "2.2.2",
+
+https://blog.cloudboost.io/creating-a-chat-web-app-using-express-js-react-js-socket-io-1b01100a8ea5
+https://github.com/AntonioErdeljac/Chat-Tutorial
+https://itnext.io/building-a-node-js-websocket-chat-app-with-socket-io-and-react-473a0686d1e1
+https://github.com/justadudewhohacks/websocket-chat
+
+https://www.valentinog.com/blog/socket-io-node-js-react/
+https://codeburst.io/isomorphic-web-app-react-js-express-socket-io-e2f03a469cd3
+http://en.proft.me/2016/11/21/hello-world-reactjs-and-nodejs-background/
+https://angular.io/tutorial/toh-pt1
